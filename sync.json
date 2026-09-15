@@ -1,7 +1,7 @@
 {
   "cafeName": "My Cyber Cafe",
   "currency": "$",
-  "updatedAt": "2026-09-15T01:46:30.637Z",
+  "updatedAt": "2026-09-15T01:46:34.491Z",
   "signedInAs": "Youssef",
   "rooms": [
     {
@@ -11,7 +11,7 @@
       "customerName": "",
       "mode": "open",
       "durationHours": null,
-      "elapsedSeconds": 13,
+      "elapsedSeconds": 17,
       "total": 0
     },
     {
@@ -26,7 +26,7 @@
       "customerName": "",
       "mode": "fixed",
       "durationHours": 1,
-      "elapsedSeconds": 8,
+      "elapsedSeconds": 12,
       "total": 10
     },
     {
