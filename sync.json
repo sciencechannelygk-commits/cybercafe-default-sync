@@ -1,0 +1,42 @@
+{
+  "cafeName": "My Cyber Cafe",
+  "currency": "$",
+  "updatedAt": "2026-09-15T01:42:43.775Z",
+  "signedInAs": "Youssef",
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Room 1",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Room 2",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "Room 3",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Room 4",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "Room 5",
+      "status": "available"
+    }
+  ],
+  "dashboard": {
+    "totalRooms": 5,
+    "inUse": 0,
+    "available": 5,
+    "sessionsToday": 0,
+    "roomRevenueToday": 0,
+    "ordersRevenueToday": 0,
+    "totalRevenueToday": 0
+  }
+}
