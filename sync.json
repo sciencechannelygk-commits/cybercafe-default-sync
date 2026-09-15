@@ -1,7 +1,7 @@
 {
   "cafeName": "My Cyber Cafe",
   "currency": "$",
-  "updatedAt": "2026-09-15T02:01:43.236Z",
+  "updatedAt": "2026-09-15T02:02:20.172Z",
   "signedInAs": "Youssef",
   "rooms": [
     {
@@ -48,5 +48,31 @@
     "roomRevenueToday": 24,
     "ordersRevenueToday": 0,
     "totalRevenueToday": 24
-  }
+  },
+  "recentHistory": [
+    {
+      "id": "sess_1789436781938_66234",
+      "roomName": "Room 3",
+      "customerName": "",
+      "startTime": "2026-09-15T01:46:21.938Z",
+      "endTime": "2026-09-15T01:49:31.436Z",
+      "totalCost": 10
+    },
+    {
+      "id": "sess_1789436776890_43284",
+      "roomName": "Room 1",
+      "customerName": "",
+      "startTime": "2026-09-15T01:46:16.890Z",
+      "endTime": "2026-09-15T01:49:07.522Z",
+      "totalCost": 0
+    },
+    {
+      "id": "sess_1789436624241_58283",
+      "roomName": "Room 1",
+      "customerName": "",
+      "startTime": "2026-09-15T01:43:44.241Z",
+      "endTime": "2026-09-15T01:44:38.363Z",
+      "totalCost": 14
+    }
+  ]
 }
