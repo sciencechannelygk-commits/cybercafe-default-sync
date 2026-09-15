@@ -1,8 +1,8 @@
 {
   "cafeName": "My Cyber Cafe",
   "currency": "$",
-  "updatedAt": "2026-09-15T01:44:46.623Z",
-  "signedInAs": "Youssef",
+  "updatedAt": "2026-09-15T01:45:13.218Z",
+  "signedInAs": null,
   "rooms": [
     {
       "id": 1,
