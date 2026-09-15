@@ -1,13 +1,18 @@
 {
   "cafeName": "My Cyber Cafe",
   "currency": "$",
-  "updatedAt": "2026-09-15T01:43:43.218Z",
+  "updatedAt": "2026-09-15T01:43:55.593Z",
   "signedInAs": "Youssef",
   "rooms": [
     {
       "id": 1,
       "name": "Room 1",
-      "status": "available"
+      "status": "in_use",
+      "customerName": "",
+      "mode": "fixed",
+      "durationHours": 1.5,
+      "elapsedSeconds": 11,
+      "total": 14
     },
     {
       "id": 2,
@@ -32,9 +37,9 @@
   ],
   "dashboard": {
     "totalRooms": 5,
-    "inUse": 0,
-    "available": 5,
-    "sessionsToday": 0,
+    "inUse": 1,
+    "available": 4,
+    "sessionsToday": 1,
     "roomRevenueToday": 0,
     "ordersRevenueToday": 0,
     "totalRevenueToday": 0
